@@ -1,0 +1,7 @@
+AIzaSyDCtIJmPqz6zZ3dTqtLoXU3UPWNxs0FQ3k
+
+Accessing credentials for tsubasa10 in project 5-tenedores
+Google Certificate Fingerprint:     8D:C5:79:00:25:A4:00:99:04:40:5B:B9:61:83:DE:34:08:03:90:54
+Google Certificate Hash (SHA-1):    8DC5790025A4009904405BB96183DE3408039054
+Google Certificate Hash (SHA-256):  FC0AD705D7B6674D7EF9F7D389E90588A39035E08E6E6225B6AA167903B45773
+Facebook Key Hash:                  jcV5ACWkAJkEQFu5YYPeNAgDkFQ=
